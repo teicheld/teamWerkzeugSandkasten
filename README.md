@@ -4,29 +4,27 @@
 moin,
 
 bist du bereits oder hast du lust teil einer grossen gemeinschaft durch open-source zu werden?\
-aktivitaet in solchen gemeinschaften zahlt sich nicht nur bei der jobsuche aus.\
-git ist dafuer ein passendes werkzeug.\
- die infrastruktur der entwickler erkunden, indem wir anstatt quellcode unsere unterichtsmaterialien hochladen und verwalten.\
-dann ist der schritt in die open-source gemeinschaft nicht mehr weit.
+Aktivitaet in solchen gemeinschaften zahlt sich nicht nur bei der jobsuche aus.\
+Git ist dafuer ein passendes werkzeug.\
+Wenn wir die infrastruktur der entwicklergemeinschaft erkunden, indem wir anstatt quellcode unsere unterichtsmaterialien hochladen und verwalten, ist der schritt in die open-source gemeinschaft nicht mehr weit.
 
 der einstieg ist simpel: es wird keine zusaetzliche software benoetigt und keine fancy befehle:\
-hier koennen wir alle unsere aufschriebe verwalten, gegenseitig verbessern.
+
+probier das gleich mit diesem dokument aus und schreib mal deine begruessung unter diesen satz.
 
 
-## hier gehts los (mit ein paar klicks zum ziel:)
+## so gehts (mit ein paar klicks zum ziel:)
 
 (also erstmal ein github account machen)
 
+![schritt 0](https://github.com/teicheld/teamWerkzeugSandkasten/blob/main/img/schritt0_anklicken.png)
 ![schritt 1](https://github.com/teicheld/teamWerkzeugSandkasten/blob/main/img/verbessern1.PNG)
 ![schritt 2](https://github.com/teicheld/teamWerkzeugSandkasten/blob/main/img/verbessern2.png)
 ![schritt 3](https://github.com/teicheld/teamWerkzeugSandkasten/blob/main/img/verbebessern3.png)
 ![schritt 4](https://github.com/teicheld/teamWerkzeugSandkasten/blob/main/img/verbessern4.png)
 ![schritt 5](https://github.com/teicheld/teamWerkzeugSandkasten/blob/main/img/verbessern5.PNG)
 
-jetzt kannst du aenderungen zu meiner arbeit hinzufuegen. du erhaelst eine kopie meiner arbeit mit deinen aenderungen.
-
 bitte beschenke mich und lass mich von deinen verbesserungen wissen!
-![schritt 6](https://github.com/teicheld/GFN-teamwork/blob/main/verbesserung%20akzeptieren1.png)
 
 ## was dieses repository ist
 
