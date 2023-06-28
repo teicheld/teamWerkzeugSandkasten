@@ -18,10 +18,10 @@ hier koennen wir alle unsere aufschriebe verwalten, gegenseitig verbessern.
 (also erstmal ein github account machen)
 
 ![schritt 1](https://github.com/teicheld/teamWerkzeugSandkasten/blob/main/img/verbessern1.PNG)
-![schritt 2](https://github.com/teicheld/teamWerkzeugSandkasten/blob/main/iverbessern2.png)
-![schritt 3](https://github.com/teicheld/teamWerkzeugSandkasten/blob/main/iverbebessern3.png)
-![schritt 4](https://github.com/teicheld/teamWerkzeugSandkasten/blob/main/iverbessern4.png)
-![schritt 5](https://github.com/teicheld/teamWerkzeugSandkasten/blob/main/iverbessern5.PNG)
+![schritt 2](https://github.com/teicheld/teamWerkzeugSandkasten/blob/main/img/verbessern2.png)
+![schritt 3](https://github.com/teicheld/teamWerkzeugSandkasten/blob/main/img/verbebessern3.png)
+![schritt 4](https://github.com/teicheld/teamWerkzeugSandkasten/blob/main/img/verbessern4.png)
+![schritt 5](https://github.com/teicheld/teamWerkzeugSandkasten/blob/main/img/verbessern5.PNG)
 
 jetzt kannst du aenderungen zu meiner arbeit hinzufuegen. du erhaelst eine kopie meiner arbeit mit deinen aenderungen.
 
