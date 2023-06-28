@@ -17,11 +17,11 @@ hier koennen wir alle unsere aufschriebe verwalten, gegenseitig verbessern.
 
 (also erstmal ein github account machen)
 
-![schritt 1](https://github.com/teicheld/GFN-teamwork/blob/main/verbessern1.PNG)
-![schritt 2](https://github.com/teicheld/GFN-teamwork/blob/main/verbessern2.png)
-![schritt 3](https://github.com/teicheld/GFN-teamwork/blob/main/verbebessern3.png)
-![schritt 4](https://github.com/teicheld/GFN-teamwork/blob/main/verbessern4.png)
-![schritt 5](https://github.com/teicheld/GFN-teamwork/blob/main/verbessern5.PNG)
+![schritt 1](https://github.com/teicheld/teamWerkzeugSandkasten/blob/main/img/verbessern1.PNG)
+![schritt 2](https://github.com/teicheld/teamWerkzeugSandkasten/blob/main/iverbessern2.png)
+![schritt 3](https://github.com/teicheld/teamWerkzeugSandkasten/blob/main/iverbebessern3.png)
+![schritt 4](https://github.com/teicheld/teamWerkzeugSandkasten/blob/main/iverbessern4.png)
+![schritt 5](https://github.com/teicheld/teamWerkzeugSandkasten/blob/main/iverbessern5.PNG)
 
 jetzt kannst du aenderungen zu meiner arbeit hinzufuegen. du erhaelst eine kopie meiner arbeit mit deinen aenderungen.
 
