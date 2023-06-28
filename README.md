@@ -17,31 +17,31 @@ Probier das gleich mit diesem dokument aus und schreib mal deine begruessung unt
 
 (also erstmal ein github account machen)\
 
-Schritt 0:
+Schritt 0:\
 ![schritt 0](https://github.com/teicheld/teamWerkzeugSandkasten/blob/main/img/schritt0_anklicken.png)
 
 
-Schritt 1: Dann auf den Stift klicken
+Schritt 1: Dann auf den Stift klicken\
 ![schritt 1](https://github.com/teicheld/teamWerkzeugSandkasten/blob/main/img/verbessern1.PNG)
 
 
-Schritt 2: gruen ist gut: draufklicken!
+Schritt 2: gruen ist gut: draufklicken!\
 ![schritt 2](https://github.com/teicheld/teamWerkzeugSandkasten/blob/main/img/verbessern2.png)
 
 
-Schritt 3: die eigenen veraenderungen hinzufuegen.
+Schritt 3: die eigenen veraenderungen hinzufuegen.\
 ![schritt 3](https://github.com/teicheld/teamWerkzeugSandkasten/blob/main/img/verbebessern3.png)
 
 
-Schritt 4: gruen ist gut: draufklicken!
+Schritt 4: gruen ist gut: draufklicken!\
 ![schritt 4](https://github.com/teicheld/teamWerkzeugSandkasten/blob/main/img/verbessern4.png)
 
 
-Schritt 4,5: gruen ist gut: draufklicken!
+Schritt 4,5: gruen ist gut: draufklicken!\
 ![schritt 4](https://github.com/teicheld/teamWerkzeugSandkasten/blob/main/img/verbessern4.5.png)
 
 
-Schritt 5: gruen ist gut: draufklicken!
+Schritt 5: gruen ist gut: draufklicken!\
 ![schritt 5](https://github.com/teicheld/teamWerkzeugSandkasten/blob/main/img/verbessern5.PNG)
 
 
