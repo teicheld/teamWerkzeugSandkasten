@@ -7,10 +7,10 @@ bist du bereits oder hast du lust teil einer grossen gemeinschaft durch open-sou
 aktivitaet in solchen gemeinschaften zahlt sich nicht nur bei der jobsuche aus.\
 git ist dafuer ein passendes werkzeug.\
  die infrastruktur der entwickler erkunden, indem wir anstatt quellcode unsere unterichtsmaterialien hochladen und verwalten.\
-dann ist der schritt in die open-source gemeinschaft nicht mehr weit.\
+dann ist der schritt in die open-source gemeinschaft nicht mehr weit.
 
 der einstieg ist simpel: es wird keine zusaetzliche software benoetigt und keine fancy befehle:\
-hier koennen wir alle unsere aufschriebe verwalten, gegenseitig verbessern.\
+hier koennen wir alle unsere aufschriebe verwalten, gegenseitig verbessern.
 
 
 ## hier gehts los (mit ein paar klicks zum ziel:)
