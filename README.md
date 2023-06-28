@@ -8,7 +8,7 @@ Aktivitaet in solchen gemeinschaften zahlt sich nicht nur bei der jobsuche aus.\
 Git ist dafuer ein passendes werkzeug.\
 Wenn wir die infrastruktur der entwicklergemeinschaft erkunden, indem wir anstatt quellcode unsere unterichtsmaterialien hochladen und verwalten, ist der schritt in die open-source gemeinschaft nicht mehr weit.
 
-Der einstieg ist simpel: es wird keine zusaetzliche software benoetigt und keine fancy befehle:\
+Der einstieg ist simpel: es wird keine zusaetzliche software benoetigt und keine fancy befehle.
 
 Probier das gleich mit diesem dokument aus und schreib mal deine begruessung unter diesen satz.
 
@@ -18,11 +18,11 @@ Probier das gleich mit diesem dokument aus und schreib mal deine begruessung unt
 (also erstmal ein github account machen)\
 
 Schritt 0:
-![schritt 0](https://github.com/teicheld/teamWerkzeugSandkasten/blob/main/img/schritt0_anklicken.png)
+![schritt 0](https://github.com/teicheld/teamWerkzeugSandkasten/blob/main/img/schritt0_anklicken.png)\
 Schritt 1: Dann auf den Stift klicken
-![schritt 1](https://github.com/teicheld/teamWerkzeugSandkasten/blob/main/img/verbessern1.PNG)
+![schritt 1](https://github.com/teicheld/teamWerkzeugSandkasten/blob/main/img/verbessern1.PNG)\
 Schritt 2: gruen ist gut: draufklicken!
-![schritt 2](https://github.com/teicheld/teamWerkzeugSandkasten/blob/main/img/verbessern2.png)
+![schritt 2](https://github.com/teicheld/teamWerkzeugSandkasten/blob/main/img/verbessern2.png)\
 Schritt 3: die eigenen veraenderungen hinzufuegen.
 ![schritt 3](https://github.com/teicheld/teamWerkzeugSandkasten/blob/main/img/verbebessern3.png)
 Schritt 4: gruen ist gut: draufklicken!
