@@ -11,9 +11,7 @@ Wenn wir die infrastruktur der entwicklergemeinschaft erkunden, indem wir anstat
 Der einstieg ist simpel: es wird keine zusaetzliche software benoetigt und keine fancy befehle.
 
 Probier das gleich mit diesem dokument aus und schreib mal deine begruessung unter diesen satz.
-
-Hallo, tscholinko war hier :)
-
+Lord-Mandos war hier
 
 ## So gehts (mit ein paar klicks zum ziel:)
 
