@@ -13,7 +13,8 @@ Der einstieg ist simpel: es wird keine zusaetzliche software benoetigt und keine
 Probier das gleich mit diesem dokument aus und schreib mal deine begruessung unter diesen satz.
 Lord-Mandos war hier.\
 Arthur war auch da ;).\
-Dominik
+Dominik \
+Martina ist dabei.
 
 ## So gehts (mit ein paar klicks zum ziel:)
 
