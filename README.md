@@ -15,6 +15,7 @@ Lord-Mandos war hier.\
 Arthur war auch da ;).\
 Dominik \
 Martina ist dabei.
+Jakob ist ready :-)
 
 ## So gehts (mit ein paar klicks zum ziel:)
 
