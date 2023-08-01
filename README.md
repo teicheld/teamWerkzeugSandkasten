@@ -10,7 +10,7 @@ Wenn wir die infrastruktur der entwicklergemeinschaft erkunden, indem wir anstat
 
 Der einstieg ist simpel: es wird keine zusaetzliche software benoetigt und keine fancy befehle.
 
-Probier das gleich mit diesem dokument aus und schreib mal deine begruessung unter diesen satz.
+Probier das gleich mit diesem dokument aus und schreib mal deine begruessung unter diesen satz. \
 Lord-Mandos war hier.\
 Arthur war auch da ;).\
 Dominik \
