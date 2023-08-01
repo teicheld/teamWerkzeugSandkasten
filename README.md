@@ -16,6 +16,7 @@ Arthur war auch da ;).\
 Dominik \
 Hi ich bin neu \
 Martina ist dabei.
+Jakob ist ready :-)
 
 ## So gehts (mit ein paar klicks zum ziel:)
 
