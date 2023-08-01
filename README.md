@@ -69,4 +69,6 @@ alle die anfragen, werde ich als projektbesitzer hinzufuegen, dass ein fragen ni
 es entwickelt sich eine sammlung von vielen projekten, welche waechst und waechst. alte sterben, neue werden geboren, dynamisch und lebendig wie das leben und wir sind die treibende kraft. mit fortlaufender zeit bleiben die interessanten bestehen und unsere gruppe gewinnt an teamgeist, wissen und motivation.
 und irgendwann sind wir bereit fuer die wilde welt da drausenn...
 
+## wenn die routine gekommen ist, dann schau hier, wie du noch mehr machen kannst:
 
+[tor in eine komfortabelere welt](https://dalek.zone/a/cantribo/video-channels)
