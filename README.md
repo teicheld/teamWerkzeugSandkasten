@@ -16,8 +16,10 @@ Arthur war auch da ;).\
 Dominik \
 Hi ich bin neu \
 Martina ist dabei. \
-Jakob ist ready :-)
-Seid gegrüsst Helden des Untergangs ich heiße Andres =D
+Jakob ist ready :-) \
+Seid gegrüsst Helden des Untergangs ich heiße Andres =D\
+
+
 ## So gehts (mit ein paar klicks zum ziel:)
 
 (also erstmal ein github account machen)\
